@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="pwd">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="remember_me">Remember me</string>
+    <string name="charge">CHARGE</string>
+</resources>
