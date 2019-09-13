@@ -1,3 +1,4 @@
 # ComfySpeed
 Final Mobile App
-Tai tat ca ve mot thu muc roi mo android studio open project bang thu muc do
+\n
+tai ve bang cach chon clone and download -> download zip. roi mo android studio open bang thu muc do la duoc
